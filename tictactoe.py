@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 #Alex Drew 04-30-21 (AKA 0xdeadbeef or ananseMugen)
-#A terminal based tictactoe game. Main purpose of this
-#Mostly just programming practice to get e used to python before trying somehting more
+#A terminal based tictactoe game. Main purpose of this is
+#mostly just programming practice to get used to python before trying somehting more
 #complex.
 #If you like this program for whatever reason and it has brought you joy, buy me a beer
 #if we ever meet :-)
