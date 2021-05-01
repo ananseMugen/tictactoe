@@ -1,15 +1,17 @@
 #!/usr/bin/python3
-#Alex Drew 04-30-21 (AKA 0xdeadbeef or ananseMugen)
-#A terminal based tictactoe game. Main purpose of this is
-#mostly just programming practice to get used to python before trying somehting more
-#complex.
-#If you like this program for whatever reason and it has brought you joy, buy me a beer
-#if we ever meet :-)
-#I'm not liable for damages incured while trying to use this program. You are, however
-#obligated to tell how you managed to incur damages. I always like a good story
-#I miss my semicolons, but fuck does this look neat.
-#Yeetus maximus this is a stage test
-
+"""Alex Drew 04-30-21 (AKA 0xdeadbeef or ananseMugen)
+A terminal based tictactoe game. Main purpose of this is
+mostly just programming practice to get used to python before trying somehting more
+complex.
+----------------------------------------------------------------------------
+"THE BEER-WARE LICENSE":
+ananseMugen/0xdeadbeef/Alex/{deadname} wrote this file.  As long as you retain this
+notice you can do whatever you want with this stuff. If we meet some day, and you think
+this stuff is worth it, you can buy me a beverage of my choice
+ * ----------------------------------------------------------------------------
+I'm not liable for damages incured while trying to use this program. You are, however
+obligated to tell how you managed to incur damages. I always like a good story.
+"""
 
 
 import sys, random
